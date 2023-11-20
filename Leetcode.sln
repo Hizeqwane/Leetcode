@@ -57,6 +57,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find the Index of the First
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Next Permutation", "31. Next Permutation\Next Permutation.csproj", "{CE3CCC5C-ED41-4577-B78C-FE0EB317E821}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Longest Valid Parentheses", "32. Longest Valid Parentheses\Longest Valid Parentheses.csproj", "{56E60F90-025B-4E47-BA02-2E8EEE326FA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{CE3CCC5C-ED41-4577-B78C-FE0EB317E821}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE3CCC5C-ED41-4577-B78C-FE0EB317E821}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE3CCC5C-ED41-4577-B78C-FE0EB317E821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56E60F90-025B-4E47-BA02-2E8EEE326FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56E60F90-025B-4E47-BA02-2E8EEE326FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56E60F90-025B-4E47-BA02-2E8EEE326FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56E60F90-025B-4E47-BA02-2E8EEE326FA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

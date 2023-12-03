@@ -61,6 +61,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Longest Valid Parentheses",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Search in Rotated Sorted Array", "33. Search in Rotated Sorted Array\Search in Rotated Sorted Array.csproj", "{2E198593-8104-45F0-90EA-D1DFF6763604}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find Firset and Last Position of Element in Sorted Array", "34. Find Firset and Last Position of Element in Sorted Array\Find Firset and Last Position of Element in Sorted Array.csproj", "{873E9806-11F5-44FD-AE07-D6F43DE568A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{2E198593-8104-45F0-90EA-D1DFF6763604}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E198593-8104-45F0-90EA-D1DFF6763604}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E198593-8104-45F0-90EA-D1DFF6763604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{873E9806-11F5-44FD-AE07-D6F43DE568A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{873E9806-11F5-44FD-AE07-D6F43DE568A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{873E9806-11F5-44FD-AE07-D6F43DE568A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{873E9806-11F5-44FD-AE07-D6F43DE568A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

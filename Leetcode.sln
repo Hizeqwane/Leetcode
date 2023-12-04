@@ -65,6 +65,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find Firset and Last Positi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Valid Sudoku", "36. Valid Sudoku\Valid Sudoku.csproj", "{5CFBE930-F8B8-4667-A2C8-5DFFE2B00C5D}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sudoku Solver", "37.Sudoku Solver\Sudoku Solver.csproj", "{946EC489-1092-4F7F-938F-0815C10B290C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{5CFBE930-F8B8-4667-A2C8-5DFFE2B00C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CFBE930-F8B8-4667-A2C8-5DFFE2B00C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CFBE930-F8B8-4667-A2C8-5DFFE2B00C5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{946EC489-1092-4F7F-938F-0815C10B290C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{946EC489-1092-4F7F-938F-0815C10B290C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{946EC489-1092-4F7F-938F-0815C10B290C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{946EC489-1092-4F7F-938F-0815C10B290C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -20,4 +20,9 @@ while (true)
     Console.WriteLine();
 }
 
-int[] SearchRange(int[] nums, int target) => new[] { Array.IndexOf(nums, target), Array.LastIndexOf(nums, target) };
+int[] SearchRange(int[] nums, int target)
+{
+    var a = Array.FindIndex(nums, s => s < target);
+
+    return new[] { Array.IndexOf(nums, target), Array.LastIndexOf(nums, target) };
+}

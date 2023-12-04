@@ -63,6 +63,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Search in Rotated Sorted Ar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find Firset and Last Position of Element in Sorted Array", "34. Find Firset and Last Position of Element in Sorted Array\Find Firset and Last Position of Element in Sorted Array.csproj", "{873E9806-11F5-44FD-AE07-D6F43DE568A2}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Valid Sudoku", "36. Valid Sudoku\Valid Sudoku.csproj", "{5CFBE930-F8B8-4667-A2C8-5DFFE2B00C5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{873E9806-11F5-44FD-AE07-D6F43DE568A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{873E9806-11F5-44FD-AE07-D6F43DE568A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{873E9806-11F5-44FD-AE07-D6F43DE568A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CFBE930-F8B8-4667-A2C8-5DFFE2B00C5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CFBE930-F8B8-4667-A2C8-5DFFE2B00C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CFBE930-F8B8-4667-A2C8-5DFFE2B00C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CFBE930-F8B8-4667-A2C8-5DFFE2B00C5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

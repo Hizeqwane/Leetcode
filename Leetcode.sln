@@ -67,6 +67,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Valid Sudoku", "36. Valid S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sudoku Solver", "37.Sudoku Solver\Sudoku Solver.csproj", "{946EC489-1092-4F7F-938F-0815C10B290C}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Count and Say", "38. Count and Say\Count and Say.csproj", "{027D3D30-EFCC-4EB8-BF0A-4BA92800E56A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{946EC489-1092-4F7F-938F-0815C10B290C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{946EC489-1092-4F7F-938F-0815C10B290C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{946EC489-1092-4F7F-938F-0815C10B290C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{027D3D30-EFCC-4EB8-BF0A-4BA92800E56A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027D3D30-EFCC-4EB8-BF0A-4BA92800E56A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027D3D30-EFCC-4EB8-BF0A-4BA92800E56A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027D3D30-EFCC-4EB8-BF0A-4BA92800E56A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

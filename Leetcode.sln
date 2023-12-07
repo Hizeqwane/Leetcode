@@ -97,6 +97,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Permutations II", "47. Perm
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rotate Image", "48. Rotate Image\Rotate Image.csproj", "{9A6EED32-EE96-48B0-A833-7458AA56B912}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Group Anagrams", "49. Group Anagrams\Group Anagrams.csproj", "{3B087E55-859E-484D-A7F6-51D391AEB9C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -271,6 +273,10 @@ Global
 		{9A6EED32-EE96-48B0-A833-7458AA56B912}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A6EED32-EE96-48B0-A833-7458AA56B912}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A6EED32-EE96-48B0-A833-7458AA56B912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B087E55-859E-484D-A7F6-51D391AEB9C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B087E55-859E-484D-A7F6-51D391AEB9C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B087E55-859E-484D-A7F6-51D391AEB9C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B087E55-859E-484D-A7F6-51D391AEB9C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -318,6 +324,7 @@ Global
 		{493A8E15-7650-4D48-8D8B-7F4579D5185C} = {3CC63AAB-625C-40DB-B557-795FCC08BD78}
 		{B6DDC614-CD77-42A3-8848-20FD0F0AB93C} = {3CC63AAB-625C-40DB-B557-795FCC08BD78}
 		{9A6EED32-EE96-48B0-A833-7458AA56B912} = {3CC63AAB-625C-40DB-B557-795FCC08BD78}
+		{3B087E55-859E-484D-A7F6-51D391AEB9C3} = {3CC63AAB-625C-40DB-B557-795FCC08BD78}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1B45E071-3899-43C6-BDE8-9E1EF909D170}

@@ -87,6 +87,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "First missing Positive", "4
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Trapping Rain Water", "42. Trapping Rain Water\Trapping Rain Water.csproj", "{ED108EA9-DBF1-4453-ABEF-B700580CA5EF}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wildcard Matching", "44. Wildcard Matching\Wildcard Matching.csproj", "{EBB8A877-365E-4777-85D8-D4F6ABBAD2FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -241,6 +243,10 @@ Global
 		{ED108EA9-DBF1-4453-ABEF-B700580CA5EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED108EA9-DBF1-4453-ABEF-B700580CA5EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED108EA9-DBF1-4453-ABEF-B700580CA5EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBB8A877-365E-4777-85D8-D4F6ABBAD2FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB8A877-365E-4777-85D8-D4F6ABBAD2FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB8A877-365E-4777-85D8-D4F6ABBAD2FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB8A877-365E-4777-85D8-D4F6ABBAD2FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -283,6 +289,7 @@ Global
 		{A03D7180-E127-4A25-A0FD-C775F225FA2B} = {03A5086D-CE1B-4416-8BA9-8328D0EDAE41}
 		{01D194C0-63BE-41AA-B516-2B267812C756} = {3CC63AAB-625C-40DB-B557-795FCC08BD78}
 		{ED108EA9-DBF1-4453-ABEF-B700580CA5EF} = {3CC63AAB-625C-40DB-B557-795FCC08BD78}
+		{EBB8A877-365E-4777-85D8-D4F6ABBAD2FB} = {3CC63AAB-625C-40DB-B557-795FCC08BD78}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1B45E071-3899-43C6-BDE8-9E1EF909D170}

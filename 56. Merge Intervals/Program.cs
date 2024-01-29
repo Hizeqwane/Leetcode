@@ -20,7 +20,7 @@
     var d2 = DateTime.Now;
 
     Console.WriteLine("Время выполнения: {0}", d2 - d1);
-    Console.Write($"{nameof(Merge)}: {result}");
+    Console.Write($"{nameof(Merge)}: {string.Join(',', result.Select(s => $"{s[0]}-{s[1]}"))}");
 
     Console.WriteLine();
 }
@@ -28,6 +28,8 @@
 int[][] Merge(int[][] intervals)
 {
     var result = new List<int[]>();
+
+    Array.Sort(intervals, (s1, s2) => s1[0].CompareTo(s2[0]));
 
     foreach (var interval in intervals)
     {
@@ -46,20 +48,18 @@ int[][] Merge(int[][] intervals)
                 break;
             }
 
-            if (start > resStart && end > resEnd)
+            if (start <= resEnd && end >= resEnd)
             {
                 resInterval[1] = end;
 
                 wasFounded = true;
-                break;
             }
 
-            if (start < resStart && end < resEnd)
+            if (start <= resStart && end >= resStart)
             {
                 resInterval[0] = start;
 
                 wasFounded = true;
-                break;
             }
 
             if (start < resStart && end > resEnd)

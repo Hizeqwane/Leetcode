@@ -121,6 +121,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spiral Matrix II", "59. Spi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutation Sequence", "60. Permutation Sequence\Permutation Sequence.csproj", "{6F85098F-FBD0-4375-ACE8-BDA110FD7D6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rotate List", "61. Rotate List\Rotate List.csproj", "{C602FB2D-2662-4717-92F0-4C729EC14601}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -339,6 +341,10 @@ Global
 		{6F85098F-FBD0-4375-ACE8-BDA110FD7D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F85098F-FBD0-4375-ACE8-BDA110FD7D6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F85098F-FBD0-4375-ACE8-BDA110FD7D6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C602FB2D-2662-4717-92F0-4C729EC14601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C602FB2D-2662-4717-92F0-4C729EC14601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C602FB2D-2662-4717-92F0-4C729EC14601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C602FB2D-2662-4717-92F0-4C729EC14601}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -396,6 +402,7 @@ Global
 		{6F7C96D9-6F1A-459C-B3DB-A32B73BE4A9B} = {C84EE484-7359-4362-9A6E-81AC08E8EDF8}
 		{943084EE-DFBD-42DA-9575-ED003EF660D6} = {C84EE484-7359-4362-9A6E-81AC08E8EDF8}
 		{6F85098F-FBD0-4375-ACE8-BDA110FD7D6A} = {C84EE484-7359-4362-9A6E-81AC08E8EDF8}
+		{C602FB2D-2662-4717-92F0-4C729EC14601} = {C84EE484-7359-4362-9A6E-81AC08E8EDF8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1B45E071-3899-43C6-BDE8-9E1EF909D170}

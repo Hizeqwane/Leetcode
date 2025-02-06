@@ -16,7 +16,7 @@ int MaxArea(int[] height)
     int si = 0;
     int ei = height.Length;
 
-
+    return FindVolume(height, si, ei);
 }
 
 int FindVolume(int[] height, int si, int ei) =>

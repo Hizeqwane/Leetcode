@@ -135,6 +135,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimum Path Sum", "64. Min
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valid Number", "65. Valid Number\Valid Number.csproj", "{1706522E-CA47-4D7A-940E-D375AF85018C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plus One", "66. Plus One\Plus One.csproj", "{DD37D596-F7D4-46BA-AB55-68A53356EC03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -377,6 +379,10 @@ Global
 		{1706522E-CA47-4D7A-940E-D375AF85018C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1706522E-CA47-4D7A-940E-D375AF85018C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1706522E-CA47-4D7A-940E-D375AF85018C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD37D596-F7D4-46BA-AB55-68A53356EC03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD37D596-F7D4-46BA-AB55-68A53356EC03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD37D596-F7D4-46BA-AB55-68A53356EC03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD37D596-F7D4-46BA-AB55-68A53356EC03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -440,6 +446,7 @@ Global
 		{C027526F-2E28-45B6-A8FD-43AEB9262535} = {AF78595A-9AF8-46F0-B22E-A4CD230DBEB4}
 		{6574D289-7833-4257-9476-E9DB272E026A} = {AF78595A-9AF8-46F0-B22E-A4CD230DBEB4}
 		{1706522E-CA47-4D7A-940E-D375AF85018C} = {AF78595A-9AF8-46F0-B22E-A4CD230DBEB4}
+		{DD37D596-F7D4-46BA-AB55-68A53356EC03} = {AF78595A-9AF8-46F0-B22E-A4CD230DBEB4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1B45E071-3899-43C6-BDE8-9E1EF909D170}
